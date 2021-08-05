@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMS_Lesson_2", "TMS_Lesson_2\TMS_Lesson_2.csproj", "{62273395-E32A-4584-8372-6B45322309AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMS_Lesson_2.1", "TMS_Lesson_2.1\TMS_Lesson_2.1.csproj", "{C621DE23-EABF-41C7-B5EF-DF86CA149807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62273395-E32A-4584-8372-6B45322309AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62273395-E32A-4584-8372-6B45322309AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62273395-E32A-4584-8372-6B45322309AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62273395-E32A-4584-8372-6B45322309AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C621DE23-EABF-41C7-B5EF-DF86CA149807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C621DE23-EABF-41C7-B5EF-DF86CA149807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C621DE23-EABF-41C7-B5EF-DF86CA149807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C621DE23-EABF-41C7-B5EF-DF86CA149807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {604C3F04-D2AA-45EC-AD88-A4BF6C83B2DD}
+	EndGlobalSection
+EndGlobal
